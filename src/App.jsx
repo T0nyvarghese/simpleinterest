@@ -62,6 +62,7 @@ function App() {
     setPrinciple(0)
     setRate(0)
     setYear(0)
+    setInterest(0)
     setIsPrinciple(true)
     setIsRate(true)
     setIsYear(true)
